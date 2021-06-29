@@ -1,9 +1,14 @@
-## 我的主机配置
+## My Hackintosh Clover-EFI
 
-| 类目 | 配置                |
-| ---- | ------------------- |
-| CPU  | I5-7500             |
-| 显卡 | Radeon RX 560 4 GB  |
-| 主板 | ASUS B250M          |
-| 内存 | 32 GB 2400 MHz DDR4 |
+My Mac OS version is Catalina 15.15.5, I am not sure if it is support Big Sur :-)
 
+| Category      | Name                |
+| ------------- | ------------------- |
+| CPU           | I5-7500             |
+| Graphics Card | Radeon RX 560 4 GB  |
+| Mother Board  | ASUS B250M          |
+| Memory        | 32 GB 2400 MHz DDR4 |
+
+## Great Thanks
+
+- [daliansky](https://github.com/daliansky/)
